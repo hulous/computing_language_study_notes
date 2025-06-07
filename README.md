@@ -7,3 +7,4 @@ As a computer guy nerd, I love more or less languages. Each one has an interest 
  - [FORTRAN](fortran/base_concepts.md)
  - [PL/1](pl_1/base_concepts.md)
  - [PL/M](pl_m/base_concepts.md)
+ - [Smalltalk](smalltalk/base_concepts.md)
