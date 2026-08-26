@@ -2,8 +2,8 @@
 As a computer guy nerd, I love more or less languages. Each one has an interest I guess and I love to learn new concepts form them... That repos is about that.
 
 # Lists
- - [Languages](./languages/languages.md)
- - [Peoples](./peoples/peoples.md)
+ - [Languages](./languages/readme.md)
+ - [Peoples](./peoples/readme.md)
 
 ## Languages
  - [Ada](./languages/ada/base_concepts.md)
